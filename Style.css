@@ -1,0 +1,47 @@
+/* .rotateimg90 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  padding: 10%;
+} */
+
+body {
+  background-color: black;
+  /* background-image: url("binaryhumancircuit.jpg");
+  /* background-repeat: round; */
+  /* background-position: right top; */
+  /* background-position: fixed; */
+  /* background-attachment: fixed; */
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+#home, #bio, #photos, #contact, #links{
+  display: inline;
+  padding:2%;
+  border: 5px groove purple;
+}
+
+.Introduction{
+  color: red;
+font-family: 'Dancing Script', cursive;
+}
+
+div{
+  max-width: 500px;
+  margin:auto;
+}
+
+#gradpic{
+  max-width: 500px;
+  margin: auto;
+  padding: 10%;
+}
