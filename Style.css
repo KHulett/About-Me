@@ -30,7 +30,7 @@ ul{
   border: 5px groove purple;
 }
 
-.Introduction{
+.Introduction, h1{
   color: red;
 font-family: 'Dancing Script', cursive;
 }
