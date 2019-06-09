@@ -10,7 +10,12 @@ body {
 }
 
 h1 {
-  padding:5%;
+  padding:2%;
+}
+
+h2 {
+  padding:2%;
+  text-align: left;
 }
 
 #home, #bio, #photos, #contact, #links{
@@ -20,6 +25,11 @@ h1 {
 }
 
 h1{
+  color: red;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2{
   color: red;
   font-family: 'Dancing Script', cursive;
 }
