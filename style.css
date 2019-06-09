@@ -5,7 +5,7 @@ body {
 
 .navbar {
   list-style-type: none;
-  margin: 0;
+  margin: 5%;
   padding: 0;
 }
 
@@ -19,13 +19,19 @@ h1 {
   border: 5px groove purple;
 }
 
-.Introduction, h1, .likes, .Contact, .likes-list{
+h1{
   color: red;
-font-family: 'Dancing Script', cursive;
+  font-family: 'Dancing Script', cursive;
+}
+
+.Introduction, .Spare-time, .contact, .Spare-time-list{
+  color: red;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
 }
 
 #gradpic{
-  max-width: 500px;
+  max-width: 700px;
   margin: auto;
   padding: 10%;
 }
